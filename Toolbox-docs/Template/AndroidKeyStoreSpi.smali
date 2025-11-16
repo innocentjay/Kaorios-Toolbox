@@ -6,6 +6,7 @@
 .method public engineGetCertificateChain(Ljava/lang/String;)[Ljava/security/cert/Certificate;
     .registers 11
 
+    ###Kousei added
     invoke-static {}, Lcom/android/internal/util/kaorios/ToolboxUtils;->KaoriosPropsEngineGetCertificateChain()V
 
     invoke-direct {p0, p1}, Landroid/security/keystore2/AndroidKeyStoreSpi;->getKeyMetadata(Ljava/lang/String;)Landroid/system/keystore2/KeyEntryResponse;
