@@ -3,12 +3,12 @@
   "TAGS": "release-keys",
   "ID": "BP41.250916.015.A1",
   "BRAND": "google",
-  "DEVICE": "caiman",
-  "FINGERPRINT": "google/caiman_beta/caiman:16/BP31.250610.009/13905196:user/release-keys",
+  "DEVICE": "frankel",
+  "FINGERPRINT": "google/frankel_beta/frankel:16/BP41.250916.015.A1/14394230:user/release-keys",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 9",
-  "PRODUCT": "caiman_beta",
+  "MODEL": "Pixel 10",
+  "PRODUCT": "frankel_beta",
   "RELEASE": "12",
-  "SECURITY_PATCH": "2025-07-05",
-  "DEVICE_INITIAL_SDK_INT": "32"
+  "SECURITY_PATCH": "2025-10-05",
+  "DEVICE_INITIAL_SDK_INT": "21"
 }
